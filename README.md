@@ -4,6 +4,4 @@ The purpose of this project is to extract, clean, and load crowdfunding and cont
 
 Project completed by Le Nguyen, Shareen Rahmathulla, and Hannah Shelton
 
-Tech Used: Pandas, numpy, Jupyter Notebook
-
-Credits:
+Tech Used: Pandas, numpy, Jupyter Notebook, pgAdmin4, QuickDBD, SQL
